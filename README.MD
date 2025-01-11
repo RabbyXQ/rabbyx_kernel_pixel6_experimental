@@ -3,6 +3,10 @@
 RABBYX_KERNEL BASED ON BLU SPARK KERNEL FOR PIXEL 6/PRO
 
 --------------------------------------------------
+#------------
+# BLUE SPARK
+#------------
+
 
 # How do I submit patches to Android Common Kernels
 
